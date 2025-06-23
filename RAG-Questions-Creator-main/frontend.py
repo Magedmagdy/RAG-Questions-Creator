@@ -46,7 +46,7 @@ def main():
         st.markdown(
             """
             <div style='text-align: center; font-size: 14px;'>
-                Created by <strong>Maged Magdy</strong>  
+                Created by <strong>Eng.Maged Magdy</strong>  
                 <br>
                 <a href="https://www.linkedin.com/in/maged-magdy-48515a11a/" target="_blank">
                     🔗 LinkedIn Profile
