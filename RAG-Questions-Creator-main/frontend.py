@@ -23,7 +23,8 @@ def main():
 
     # Sidebar with logo and file upload
     with st.sidebar:
-        st.image("Images/logo.png", width=350)
+        st.image("RAG-Questions-Creator-main/Images/logo.png", width=350)
+
 
 
         doc_files = st.file_uploader(label="Upload your PDF files", accept_multiple_files=True)
